@@ -9,9 +9,9 @@ Long Break: 35 minutes
 
 This is just my personal time preference for studying. If you wish to change the time to your liking, you may do so by changing the integer values in source code under: 
 ```
-pomodoro_time = 25 * 60 <br>
-short_break_time = 5 * 60 <br>
-long_break_time = 35 * 60 <br>
+pomodoro_time = 25 * 60 
+short_break_time = 5 * 60 
+long_break_time = 35 * 60 
 ```
 
 # Installation
