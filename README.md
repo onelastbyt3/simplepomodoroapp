@@ -8,27 +8,27 @@ Short Break: 5 minutes
 Long Break: 35 minutes
 
 This is just my personal time preference for studying. If you wish to change the time to your liking, you may do so by changing the integer values in source code under: 
-
+```
 pomodoro_time = 25 * 60 <br>
 short_break_time = 5 * 60 <br>
 long_break_time = 35 * 60 <br>
-
+```
 
 # Installation
 1. Clone this repository to your local machine using the following command:
-
+```
 git clone https://github.com/onelastbyt3/simplepomodoroapp.git
-
+```
 2. Ensure you have Python installed (version 3.10 or later).
 
 3. Install the required dependencies by running the following command:
-
+```
 pip install -r requirements.txt
-
+```
 4. Run the app using the following command:
-
+```
 python simplepomodoroapp.py
-
+```
 # How to Use
 Once the app is launched, there is a "Simple Pomodoro App" label along with three buttons: Pomodoro, Short Break, and Long Break.
 
